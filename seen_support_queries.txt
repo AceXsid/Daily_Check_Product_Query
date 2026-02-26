@@ -72,3 +72,4 @@ https://wordpress.org/support/topic/clear-database-of-ooohboi-code/
 https://wordpress.org/support/topic/glider-doesnt-work-if-the-page-also-has-a-slider-from-elementor/
 https://wordpress.org/support/topic/older-version-19/
 https://wordpress.org/support/topic/glider-transition-error-in-swiper-js/
+https://wordpress.org/support/topic/gravity-form-not-showing-checkboxes/
