@@ -1,0 +1,56 @@
+name: WordPress Support Scraper Bot
+
+on:
+  schedule:
+    - cron: '0 1 * * *'   # Runs daily at 01:00 UTC
+  workflow_dispatch:      # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write          # Required to commit updated seen file
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Checkout repository
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v3
+
+      # 2️⃣ Setup Python
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      # 3️⃣ Install dependencies
+      - name: 📦 Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 4️⃣ Run Support Scraper
+      - name: 🚀 Run Support Scraper
+        run: python review_bot.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          CLICKUP_API_TOKEN: ${{ secrets.CLICKUP_API_TOKEN }}
+
+      # 5️⃣ Commit updated seen_support_queries.txt (only if changed)
+      - name: 💾 Commit updated seen_support_queries.txt
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git pull origin main
+
+          # Check if file changed
+          if git diff --quiet seen_support_queries.txt; then
+            echo "🟢 No changes detected"
+          else
+            echo "🔄 Changes detected. Committing..."
+            git add seen_support_queries.txt
+            git commit -m "Update seen support queries [skip ci]"
+            git push
+            echo "✅ seen_support_queries.txt updated"
+          fi
