@@ -2,7 +2,7 @@ name: WordPress Support Scraper Bot
 
 on:
   schedule:
-   - cron: '*/10 * * * *'
+   - cron: '* * * * *'
   workflow_dispatch:      # Allow manual trigger from GitHub UI
 
 permissions:
