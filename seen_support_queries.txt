@@ -73,3 +73,4 @@ https://wordpress.org/support/topic/glider-doesnt-work-if-the-page-also-has-a-sl
 https://wordpress.org/support/topic/older-version-19/
 https://wordpress.org/support/topic/glider-transition-error-in-swiper-js/
 https://wordpress.org/support/topic/gravity-form-not-showing-checkboxes/
+https://wordpress.org/support/topic/these-strings-in-this-file-are-hardcoded-and-are-not-translatable-5/
