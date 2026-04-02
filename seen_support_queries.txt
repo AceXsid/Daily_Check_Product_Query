@@ -77,3 +77,4 @@ https://wordpress.org/support/topic/these-strings-in-this-file-are-hardcoded-and
 https://wordpress.org/support/topic/last-update-cause-error-500-on-edit-post-template/
 https://wordpress.org/support/topic/logo-not-shrinking/
 https://wordpress.org/support/topic/content-jump-when-sticky-header-activates/
+https://wordpress.org/support/topic/vertical-header-6/
