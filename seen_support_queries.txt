@@ -78,3 +78,4 @@ https://wordpress.org/support/topic/logo-not-shrinking/
 https://wordpress.org/support/topic/content-jump-when-sticky-header-activates/
 https://wordpress.org/support/topic/vertical-header-6/
 https://wordpress.org/support/topic/header-issue-57/
+https://wordpress.org/support/topic/the-tp-widgets-show-js-strings-are-not-displayed-translated/
