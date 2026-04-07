@@ -19,37 +19,37 @@ PRODUCTS = [
         "url": "https://wordpress.org/support/plugin/the-plus-addons-for-elementor-page-builder/",
         "clickup_list_id": "901607047583",
         # "clickup_list_id": "901607808438",
-        "assignees": [94894049,94892542]
+        "assignees": [176552817, 94892542, 94894039]
     },
     {
         "name": "Nexter Extension",
         "url": "https://wordpress.org/support/plugin/nexter-extension/",
         "clickup_list_id": "901606860254",
-        "assignees": [94892542, 94894033]
+        "assignees": [94892542, 94893994]
     },
     {
         "name": "WDesignKit",
         "url": "https://wordpress.org/support/plugin/wdesignkit/",
         "clickup_list_id": "901607048102",
-        "assignees": [94894049, 94892542]
+        "assignees": [176566294, 94892542]
     },
     {
         "name": "Nexter Blocks",
         "url": "https://wordpress.org/support/plugin/the-plus-addons-for-block-editor/",
         "clickup_list_id": "901606860254",
-        "assignees": [94892542, 94894033]
+        "assignees": [94892542, 94893991]
     },
      {
         "name": "Sticky Header",
         "url": "https://wordpress.org/support/plugin/sticky-header-effects-for-elementor/",
         "clickup_list_id": "901607050738",
-        "assignees": [94894049, 94892542]
+        "assignees": [176552817, 94892542]
     },
       {
         "name": "OhhBoi",
         "url": "https://wordpress.org/support/plugin/ooohboi-steroids-for-elementor/",
         "clickup_list_id": "901606984097",
-        "assignees": [94892542]
+        "assignees": [94894039]
     }
 ]
 
