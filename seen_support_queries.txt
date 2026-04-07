@@ -1,5 +1,4 @@
 https://wordpress.org/support/topic/important-points-to-remember-before-submitting-ticket-3/
-https://wordpress.org/support/topic/the-tp-widgets-show-js-strings-are-not-displayed-translated/
 https://wordpress.org/support/topic/how-to-set-default-style-for-cf7-block/
 https://wordpress.org/support/topic/double-slash-issue-in-asset-urls-generated-by-the-plus-addons-for-elementor/
 https://wordpress.org/support/topic/this-string-is-hardcoded-and-cannot-be-translated-11/
