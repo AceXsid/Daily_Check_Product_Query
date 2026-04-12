@@ -81,3 +81,5 @@ https://wordpress.org/support/topic/header-issue-57/
 https://wordpress.org/support/topic/the-tp-widgets-show-js-strings-are-not-displayed-translated/
 https://wordpress.org/support/topic/error-in-version-4-6-3/
 https://wordpress.org/support/topic/custom-login-url-secure/
+https://wordpress.org/support/topic/the-translatable-strings-are-from-an-old-version-16/
+https://wordpress.org/support/topic/the-translatable-strings-are-from-an-old-version-17/
