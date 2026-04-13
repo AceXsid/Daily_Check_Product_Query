@@ -83,3 +83,11 @@ https://wordpress.org/support/topic/error-in-version-4-6-3/
 https://wordpress.org/support/topic/custom-login-url-secure/
 https://wordpress.org/support/topic/the-translatable-strings-are-from-an-old-version-16/
 https://wordpress.org/support/topic/the-translatable-strings-are-from-an-old-version-17/
+https://wordpress.org/support/topic/for-this-string-edit-esc_attr-is-used-and-is-not-translatable/
+https://wordpress.org/support/topic/this-edit-condition-string-is-hard-coded-and-not-translatable/
+https://wordpress.org/support/topic/this-create-string-is-hard-coded-and-not-translatable/
+https://wordpress.org/support/topic/some-strings-in-this-file-are-hard-coded-and-untranslatable-4/
+https://wordpress.org/support/topic/some-strings-in-this-file-are-hard-coded-and-untranslatable-3/
+https://wordpress.org/support/topic/some-strings-in-this-file-are-hard-coded-and-untranslatable-2/
+https://wordpress.org/support/topic/theme-builder-strings-are-not-displayed-translated-2/
+https://wordpress.org/support/topic/some-strings-in-this-file-are-hard-coded-and-untranslatable/
