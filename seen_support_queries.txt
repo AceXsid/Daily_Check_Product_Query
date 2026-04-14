@@ -91,3 +91,4 @@ https://wordpress.org/support/topic/some-strings-in-this-file-are-hard-coded-and
 https://wordpress.org/support/topic/some-strings-in-this-file-are-hard-coded-and-untranslatable-2/
 https://wordpress.org/support/topic/theme-builder-strings-are-not-displayed-translated-2/
 https://wordpress.org/support/topic/some-strings-in-this-file-are-hard-coded-and-untranslatable/
+https://wordpress.org/support/topic/the-current-pot-file-format-does-not-allow-loco-to-generate-js-translation/
