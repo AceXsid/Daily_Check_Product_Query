@@ -92,3 +92,6 @@ https://wordpress.org/support/topic/some-strings-in-this-file-are-hard-coded-and
 https://wordpress.org/support/topic/theme-builder-strings-are-not-displayed-translated-2/
 https://wordpress.org/support/topic/some-strings-in-this-file-are-hard-coded-and-untranslatable/
 https://wordpress.org/support/topic/the-current-pot-file-format-does-not-allow-loco-to-generate-js-translation/
+https://wordpress.org/support/topic/these-search-placeholders-are-hard-coded-and-non-translatable/
+https://wordpress.org/support/topic/block-titles-and-descriptions-are-not-displayed-translated/
+https://wordpress.org/support/topic/some-strings-in-this-file-have-a-different-text-domain/
