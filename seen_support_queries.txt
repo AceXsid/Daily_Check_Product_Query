@@ -96,3 +96,4 @@ https://wordpress.org/support/topic/these-search-placeholders-are-hard-coded-and
 https://wordpress.org/support/topic/block-titles-and-descriptions-are-not-displayed-translated/
 https://wordpress.org/support/topic/some-strings-in-this-file-have-a-different-text-domain/
 https://wordpress.org/support/topic/blog-date-icon-renders-as-raw-svg-code-on-frontend/
+https://wordpress.org/support/topic/the-plus-copy-and-plus-paste-strings-are-hard-coded-and-untranslatable/
