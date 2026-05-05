@@ -97,3 +97,4 @@ https://wordpress.org/support/topic/block-titles-and-descriptions-are-not-displa
 https://wordpress.org/support/topic/some-strings-in-this-file-have-a-different-text-domain/
 https://wordpress.org/support/topic/blog-date-icon-renders-as-raw-svg-code-on-frontend/
 https://wordpress.org/support/topic/the-plus-copy-and-plus-paste-strings-are-hard-coded-and-untranslatable/
+https://wordpress.org/support/topic/server-error-405-error/
