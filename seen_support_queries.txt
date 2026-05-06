@@ -98,3 +98,12 @@ https://wordpress.org/support/topic/some-strings-in-this-file-have-a-different-t
 https://wordpress.org/support/topic/blog-date-icon-renders-as-raw-svg-code-on-frontend/
 https://wordpress.org/support/topic/the-plus-copy-and-plus-paste-strings-are-hard-coded-and-untranslatable/
 https://wordpress.org/support/topic/server-error-405-error/
+https://wordpress.org/support/topic/the-string-customizing-in-this-file-is-hard-coded-and-not-translatable/
+https://wordpress.org/support/topic/the-search-placeholder-in-this-file-is-hard-coded-and-not-translatable/
+https://wordpress.org/support/topic/the-select-font-family-placeholder-in-this-file-is-hard-coded/
+https://wordpress.org/support/topic/the-section-titles-in-this-file-are-hard-coded-and-are-not-translatable/
+https://wordpress.org/support/topic/some-strings-in-this-file-are-hard-coded-and-untranslatable-5/
+https://wordpress.org/support/topic/xss-protection/
+https://wordpress.org/support/topic/problem-with-child-theme-14/
+https://wordpress.org/support/topic/nexterwp-recaptcha/
+https://wordpress.org/support/topic/query-about-the-nexter-theme/

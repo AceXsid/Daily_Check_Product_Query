@@ -50,6 +50,18 @@ PRODUCTS = [
         "url": "https://wordpress.org/support/plugin/ooohboi-steroids-for-elementor/",
         "clickup_list_id": "901606984097",
         "assignees": [94894039]
+    },
+    {
+        "name": "Uichemy",
+        "url": "https://wordpress.org/support/plugin/ooohboi-steroids-for-elementor/",
+        "clickup_list_id": "901606862007",
+        "assignees": [94894039, 94896099]
+    },
+    {
+        "name": "Nexter Theme",
+        "url": "https://wordpress.org/support/theme/nexter/",
+        "clickup_list_id": "901606860254",
+        "assignees": [94894039, 94893994]
     }
 ]
 
@@ -168,15 +180,15 @@ if __name__ == "__main__":
 
             content = get_topic_content(link)
 
-            success = create_clickup_task(
-                product_name=product["name"],
-                list_id=product["clickup_list_id"],
-                title=title,
-                topic_url=link,
-                topic_content=content,
-                assignees=product["assignees"]
-            )
-            # success = "done"
+            # success = create_clickup_task(
+            #     product_name=product["name"],
+            #     list_id=product["clickup_list_id"],
+            #     title=title,
+            #     topic_url=link,
+            #     topic_content=content,
+            #     assignees=product["assignees"]
+            # )
+            success = "done"
 
             if success:
                 save_seen_query(link)
