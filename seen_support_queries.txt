@@ -107,3 +107,5 @@ https://wordpress.org/support/topic/xss-protection/
 https://wordpress.org/support/topic/problem-with-child-theme-14/
 https://wordpress.org/support/topic/nexterwp-recaptcha/
 https://wordpress.org/support/topic/query-about-the-nexter-theme/
+https://wordpress.org/support/topic/these-strings-in-this-file-are-hard-coded-and-untranslatable-4/
+https://wordpress.org/support/topic/this-string-in-this-file-is-hard-coded-and-untranslatable-4/
