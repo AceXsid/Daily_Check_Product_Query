@@ -180,15 +180,15 @@ if __name__ == "__main__":
 
             content = get_topic_content(link)
 
-            # success = create_clickup_task(
-            #     product_name=product["name"],
-            #     list_id=product["clickup_list_id"],
-            #     title=title,
-            #     topic_url=link,
-            #     topic_content=content,
-            #     assignees=product["assignees"]
-            # )
-            success = "done"
+            success = create_clickup_task(
+                product_name=product["name"],
+                list_id=product["clickup_list_id"],
+                title=title,
+                topic_url=link,
+                topic_content=content,
+                assignees=product["assignees"]
+            )
+            # success = "done"
 
             if success:
                 save_seen_query(link)
