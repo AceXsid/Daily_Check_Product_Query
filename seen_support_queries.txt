@@ -109,3 +109,14 @@ https://wordpress.org/support/topic/nexterwp-recaptcha/
 https://wordpress.org/support/topic/query-about-the-nexter-theme/
 https://wordpress.org/support/topic/these-strings-in-this-file-are-hard-coded-and-untranslatable-4/
 https://wordpress.org/support/topic/this-string-in-this-file-is-hard-coded-and-untranslatable-4/
+https://wordpress.org/support/topic/two-strings-in-this-file-have-a-different-text-domain/
+https://wordpress.org/support/topic/strings-of-uich-nxt-js-are-not-displayed-translated/
+https://wordpress.org/support/topic/strings-of-uich-dashscript-are-not-displayed-translated/
+https://wordpress.org/support/topic/elementor-4-support/
+https://wordpress.org/support/topic/kadence-blocks-timeline/
+https://wordpress.org/support/topic/how-does-the-uichemy-navigation-menu-widget-work-in-elementor/
+https://wordpress.org/support/topic/svg-icons-converted-to-png/
+https://wordpress.org/support/topic/more-tutorials-and-documentation-needed/
+https://wordpress.org/support/topic/figma-to-gutenberg-for-core-blocks/
+https://wordpress.org/support/topic/error-message-1026/
+https://wordpress.org/support/topic/will-support-be-coming-to-other-page-builders/

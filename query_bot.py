@@ -53,7 +53,7 @@ PRODUCTS = [
     },
     {
         "name": "Uichemy",
-        "url": "https://wordpress.org/support/plugin/ooohboi-steroids-for-elementor/",
+        "url": "https://wordpress.org/support/plugin/uichemy/",
         "clickup_list_id": "901606862007",
         "assignees": [94894039, 94896099]
     },
