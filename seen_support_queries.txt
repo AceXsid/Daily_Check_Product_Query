@@ -120,3 +120,4 @@ https://wordpress.org/support/topic/more-tutorials-and-documentation-needed/
 https://wordpress.org/support/topic/figma-to-gutenberg-for-core-blocks/
 https://wordpress.org/support/topic/error-message-1026/
 https://wordpress.org/support/topic/will-support-be-coming-to-other-page-builders/
+https://wordpress.org/support/topic/elementor-v4-compatibility/
