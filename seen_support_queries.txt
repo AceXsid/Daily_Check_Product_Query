@@ -123,3 +123,4 @@ https://wordpress.org/support/topic/will-support-be-coming-to-other-page-builder
 https://wordpress.org/support/topic/elementor-v4-compatibility/
 https://wordpress.org/support/topic/form-dropdown-inputs-not-working/
 https://wordpress.org/support/topic/white-screen-of-death-248/
+https://wordpress.org/support/topic/strings-related-to-the-new-copy-and-paste-functionality-are-not-translatable/
