@@ -25,19 +25,19 @@ PRODUCTS = [
         "name": "Nexter Extension",
         "url": "https://wordpress.org/support/plugin/nexter-extension/",
         "clickup_list_id": "901606860254",
-        "assignees": [94892542, 94893994]
+        "assignees": [94894033, 94893994]
     },
     {
         "name": "WDesignKit",
         "url": "https://wordpress.org/support/plugin/wdesignkit/",
         "clickup_list_id": "901607048102",
-        "assignees": [176566294, 94892542]
+        "assignees": [176552723, 94894049]
     },
     {
         "name": "Nexter Blocks",
         "url": "https://wordpress.org/support/plugin/the-plus-addons-for-block-editor/",
         "clickup_list_id": "901606860254",
-        "assignees": [94892542, 94893991]
+        "assignees": [94894033, 94893991]
     },
      {
         "name": "Sticky Header",
@@ -55,13 +55,13 @@ PRODUCTS = [
         "name": "Uichemy",
         "url": "https://wordpress.org/support/plugin/uichemy/",
         "clickup_list_id": "901606862007",
-        "assignees": [94894039, 94896099]
+        "assignees": [94894033, 94896099]
     },
     {
         "name": "Nexter Theme",
         "url": "https://wordpress.org/support/theme/nexter/",
         "clickup_list_id": "901606860254",
-        "assignees": [94894039, 94893994]
+        "assignees": [94894033, 94893994]
     }
 ]
 
