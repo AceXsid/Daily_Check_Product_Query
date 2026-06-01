@@ -31,7 +31,7 @@ PRODUCTS = [
         "name": "WDesignKit",
         "url": "https://wordpress.org/support/plugin/wdesignkit/",
         "clickup_list_id": "901607048102",
-        "assignees": [176552723, 94894049]
+        "assignees": [176552723, 94894049, 94893993]
     },
     {
         "name": "Nexter Blocks",
