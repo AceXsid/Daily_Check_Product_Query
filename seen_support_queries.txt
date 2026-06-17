@@ -127,3 +127,5 @@ https://wordpress.org/support/topic/strings-related-to-the-new-copy-and-paste-fu
 https://wordpress.org/support/topic/update-to-2-1-27-breaks-layout-due-to-missing-breaking-bad-module-in-elementor/
 https://wordpress.org/support/topic/missing-string-alignment-between-pot-file-and-translate-wordpress-org/
 https://wordpress.org/support/topic/these-two-labels-are-hard-coded-and-non-translatable/
+https://wordpress.org/support/topic/these-strings-in-this-file-are-hard-coded-and-untranslatable-8/
+https://wordpress.org/support/topic/these-strings-in-this-file-are-hard-coded-and-untranslatable-7/
