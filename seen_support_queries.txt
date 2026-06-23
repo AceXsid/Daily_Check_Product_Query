@@ -129,3 +129,5 @@ https://wordpress.org/support/topic/missing-string-alignment-between-pot-file-an
 https://wordpress.org/support/topic/these-two-labels-are-hard-coded-and-non-translatable/
 https://wordpress.org/support/topic/these-strings-in-this-file-are-hard-coded-and-untranslatable-8/
 https://wordpress.org/support/topic/these-strings-in-this-file-are-hard-coded-and-untranslatable-7/
+https://wordpress.org/support/topic/these-strings-in-this-file-are-hard-coded-and-untranslatable-9/
+https://wordpress.org/support/topic/these-strings-in-this-file-are-hard-coded-and-untranslatable-10/
