@@ -131,3 +131,4 @@ https://wordpress.org/support/topic/these-strings-in-this-file-are-hard-coded-an
 https://wordpress.org/support/topic/these-strings-in-this-file-are-hard-coded-and-untranslatable-7/
 https://wordpress.org/support/topic/these-strings-in-this-file-are-hard-coded-and-untranslatable-9/
 https://wordpress.org/support/topic/these-strings-in-this-file-are-hard-coded-and-untranslatable-10/
+https://wordpress.org/support/topic/this-string-in-this-file-has-the-wrong-text-domain-4/
