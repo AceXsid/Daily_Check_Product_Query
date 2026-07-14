@@ -135,3 +135,6 @@ https://wordpress.org/support/topic/this-string-in-this-file-has-the-wrong-text-
 https://wordpress.org/support/topic/wcv-fails-for-mobile/
 https://wordpress.org/support/topic/the-strings-in-this-file-have-different-text-domain/
 https://wordpress.org/support/topic/no-css-or-background-colour-are-imported%c2%a7/
+https://wordpress.org/support/topic/plugin-ability/
+https://wordpress.org/support/topic/create-mode/
+https://wordpress.org/support/topic/agents-feature/
