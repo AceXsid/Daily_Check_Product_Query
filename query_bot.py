@@ -62,6 +62,12 @@ PRODUCTS = [
         "url": "https://wordpress.org/support/theme/nexter/",
         "clickup_list_id": "901606860254",
         "assignees": [94894033, 94893994]
+    },
+        {
+        "name": "SproutOS",
+        "url": "https://wordpress.org/support/plugin/sproutos/",
+        "clickup_list_id": "901615868228",
+        "assignees": [94894049, 94892542 , 176552817]
     }
 ]
 
