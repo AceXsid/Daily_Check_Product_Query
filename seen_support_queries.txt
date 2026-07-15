@@ -138,3 +138,5 @@ https://wordpress.org/support/topic/no-css-or-background-colour-are-imported%c2%
 https://wordpress.org/support/topic/plugin-ability/
 https://wordpress.org/support/topic/create-mode/
 https://wordpress.org/support/topic/agents-feature/
+https://wordpress.org/support/topic/2-credot-cards-denied-trying-to-upgrade-1-site/
+https://wordpress.org/support/topic/these-strings-in-this-file-are-hard-coded-and-untranslatable-18/
