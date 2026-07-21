@@ -142,3 +142,4 @@ https://wordpress.org/support/topic/2-credot-cards-denied-trying-to-upgrade-1-si
 https://wordpress.org/support/topic/these-strings-in-this-file-are-hard-coded-and-untranslatable-18/
 https://wordpress.org/support/topic/this-string-is-not-formatted-correctly-for-translation-12/
 https://wordpress.org/support/topic/the-strings-in-the-js-files-of-the-new-seo-feature-are-not-displayed-translated/
+https://wordpress.org/support/topic/this-string-in-this-file-does-not-have-the-text-domain/
