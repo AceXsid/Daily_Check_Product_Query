@@ -144,3 +144,4 @@ https://wordpress.org/support/topic/this-string-is-not-formatted-correctly-for-t
 https://wordpress.org/support/topic/the-strings-in-the-js-files-of-the-new-seo-feature-are-not-displayed-translated/
 https://wordpress.org/support/topic/this-string-in-this-file-does-not-have-the-text-domain/
 https://wordpress.org/support/topic/some-strings-in-these-files-are-hard-coded-and-untranslatable-10/
+https://wordpress.org/support/topic/invalid-text-domain-contains-s-breaks-wpml-compatibility/
